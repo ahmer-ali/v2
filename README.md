@@ -15,6 +15,8 @@ pip install futures
 
 git clone https://github.com/Mhmdbadru013/v2
 
+git pull
+
 cd v2
 
 python run.py
